@@ -1,3 +1,9 @@
+Dashboard Description
+
+This dashboard presents the main operational and usage indicators of the Riyadh Metro for 2025. It provides an integrated view of total passengers, number of stations, operational reliability, and passenger distribution across metro lines. Visual elements such as maps, pie charts, and bar charts enable decision-makers to quickly identify the most used lines, compare performance, and assess overall system efficiency.
+
+
+
 Data and Analytics Steps
 1. Data Collection
 
